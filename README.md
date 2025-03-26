@@ -1,3 +1,2 @@
-# ZOT
-The code of paper "Unlocking Black-Box Prompt Tuning Efficiency via Zeroth-Order Optimization"
-is coming soon...
+# ZOT: Unlocking Black-Box Prompt Tuning Efficiency via Zeroth-Order Optimization
+Unlocking Black-Box Prompt Tuning Efficiency via Zeroth-Order Optimization
