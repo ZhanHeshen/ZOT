@@ -23,7 +23,7 @@ We provide the modelling file of LLaMA2, GPT2 and RoBERTa-Large. You can runing 
 
 Runing the following command to run the experiments:
 
-`python wbt.py --model_name model_path`
+`python ZOT.py --model_name model_path`
 
 # Acknowledgements
 Our code is heavily based on the [BBT](https://github.com/txsun1997/Black-Box-Tuning). Please follow the detailed instructions from BBT.
