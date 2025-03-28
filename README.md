@@ -1,5 +1,5 @@
 # ZOT: Unlocking Black-Box Prompt Tuning Efficiency via Zeroth-Order Optimization
-This is the code repository of paper Unlocking Black-Box Prompt Tuning Efficiency via Zeroth-Order Optimization [[paper link](https://aclanthology.org/2024.findings-emnlp.871.pdf)].
+This is the code repository of paper 'Unlocking Black-Box Prompt Tuning Efficiency via Zeroth-Order Optimization' [[paper link](https://aclanthology.org/2024.findings-emnlp.871.pdf)].
 
 # Overview
 Prompt optimization emerges as an important technique for adapting Large Language Models (LLMs) to specific tasks. Unfortunately, LLM proprietors often limit access to models’ internal weights, confining users to inference API services. This restriction poses a significant challenge for prompt optimization, as conventional optimization-based algorithms rely heavily on gradient information, which is unavailable via inference APIs. Addressing this challenge, this paper presents the ZerothOrder Tuning (ZOT) approach, which enables efficient prompt tuning solely via inference APIs. ZOT adopts the zeroth-order optimization framework, utilizing finite differences to approximate gradient information. We further incorporate ZOT with gradient clipping and
