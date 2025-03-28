@@ -14,7 +14,7 @@ conda activate zot
 pip install fastNLP==0.6.0
 pip install datasets
 pip install scikit-learn
-pip install transformers
+pip install transformers==4.28.1
 git clone https://github.com/ZhanHeshen/ZOT.git
 cd ZOT
 ```
