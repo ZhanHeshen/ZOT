@@ -9,6 +9,11 @@ momentum techniques to enhance the tuning effectiveness.
 The environment can be set up by the provided `requirements.txt` file
 
 ```
+conda create --name zot python=3.10
+conda activate zot
+pip install fastNLP==0.6.0
+pip install datasets
+pip install scikit-learn
 cd ZOT
 pip install requirements.txt
 ```
