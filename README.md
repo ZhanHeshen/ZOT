@@ -6,7 +6,7 @@ Prompt optimization emerges as an important technique for adapting Large Languag
 momentum techniques to enhance the tuning effectiveness. 
 
 # How to use
-The environment can be set up by the provided `requirements.txt` file
+The environment can be set up by runing the following commands:
 
 ```
 conda create --name zot python=3.10
