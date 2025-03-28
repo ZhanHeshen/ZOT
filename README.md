@@ -14,8 +14,9 @@ conda activate zot
 pip install fastNLP==0.6.0
 pip install datasets
 pip install scikit-learn
+pip install transformers
+git clone https://github.com/ZhanHeshen/ZOT.git
 cd ZOT
-pip install requirements.txt
 ```
 We provide the modelling file of LLaMA2, GPT2 and RoBERTa-Large. You can runing experiments on these model by specifying `model_path`.
 
