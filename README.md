@@ -15,6 +15,7 @@ pip install fastNLP==0.6.0
 pip install datasets
 pip install scikit-learn
 pip install transformers==4.28.1
+pip install matplotlib
 git clone https://github.com/ZhanHeshen/ZOT.git
 cd ZOT
 ```
